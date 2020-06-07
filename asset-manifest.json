@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shortly/static/css/main.c7cb2c67.chunk.css",
+    "main.js": "/Shortly/static/js/main.a6c82b63.chunk.js",
+    "main.js.map": "/Shortly/static/js/main.a6c82b63.chunk.js.map",
+    "runtime-main.js": "/Shortly/static/js/runtime-main.d56fa237.js",
+    "runtime-main.js.map": "/Shortly/static/js/runtime-main.d56fa237.js.map",
+    "static/js/2.92c83b61.chunk.js": "/Shortly/static/js/2.92c83b61.chunk.js",
+    "static/js/2.92c83b61.chunk.js.map": "/Shortly/static/js/2.92c83b61.chunk.js.map",
+    "index.html": "/Shortly/index.html",
+    "precache-manifest.6fe8af6f8e6e86fd714596267d5d4ca4.js": "/Shortly/precache-manifest.6fe8af6f8e6e86fd714596267d5d4ca4.js",
+    "service-worker.js": "/Shortly/service-worker.js",
+    "static/css/main.c7cb2c67.chunk.css.map": "/Shortly/static/css/main.c7cb2c67.chunk.css.map",
+    "static/js/2.92c83b61.chunk.js.LICENSE.txt": "/Shortly/static/js/2.92c83b61.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Shortly/static/media/bg-shorten-desktop.a82de60e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d56fa237.js",
+    "static/js/2.92c83b61.chunk.js",
+    "static/css/main.c7cb2c67.chunk.css",
+    "static/js/main.a6c82b63.chunk.js"
+  ]
+}
